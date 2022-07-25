@@ -1,0 +1,40 @@
+.slider {
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.why_365_col_1 {
+  background-color: lightgoldenrodyellow;
+}
+
+.why_365_col_2 {
+  background-color: yellow;
+}
+
+.why_365_col_3 {
+  background-color: lightsalmon;
+}
+
+.why_365_col_4, .success-modal {
+  background-color: orange;
+}
+
+.btn-choose, .btn-send-order {
+  background-color: orange;
+}
+
+.card-header {
+  background-color: orange;
+}
+
+@media (min-width: 768px) {
+  .row.equal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.footer {
+  background-color: orange;
+}
